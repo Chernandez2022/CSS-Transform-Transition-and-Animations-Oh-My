@@ -1,3 +1,4 @@
 main {
-
+  transform: skewx(-30deg);
+  width: 90%;
 }
